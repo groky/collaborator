@@ -1,0 +1,27 @@
+{
+  "name": "collaborator",
+  "version": "1.0.0",
+  "description": "Collaborator aims be a complete learning solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groky/collaborator.git"
+  },
+  "keywords": [
+    "learn",
+    "together"
+  ],
+  "author": "Kyle Grovers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/groky/collaborator/issues"
+  },
+  "homepage": "https://github.com/groky/collaborator#readme",
+  "dependencies": {
+    "angular": "^1.4.5",
+    "jasmine": "^2.3.2"
+  }
+}
